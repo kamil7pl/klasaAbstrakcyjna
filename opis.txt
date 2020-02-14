@@ -1,0 +1,1 @@
+Nie można wywołać instancji klasy abstrakcyjnej. Po klasie abstrakcyjnej można dziedziczyć. 
